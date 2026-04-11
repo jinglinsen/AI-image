@@ -1,0 +1,14 @@
+__pycache__
+*.pyc
+*.pyo
+myenv
+venv
+.env.dev
+.git
+*.log
+instance/
+uploads/*
+generated_images/*
+logs/*
+test_*.py
+*.bat
